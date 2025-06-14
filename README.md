@@ -31,7 +31,7 @@
 
 ## Demo
 Video demo aplikasi pada link drive berikut:
-https://drive.google.com/drive/folders/1TboOUuPDWrTQm5arAILp01gM1CTKwqUg?usp=drive_link
+https://drive.google.com/drive/folders/1vr6MyqQJ1THxs7g4NZLdJRnm2S7BADAS?usp=sharing
 
 ## Identitas
 Nama: Khalila Sarah A.
