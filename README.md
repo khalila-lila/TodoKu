@@ -6,12 +6,6 @@
 - ☑️ Menandai task yang sudah selesai (checklist)
 
 ## 🚀 Cara Instalasi
-
-git clone https://github.com/khalila-lila/TodoKu.git
-cd TodoKu
-flutter pub get
-
-## Cara Instalasi
     1. Pastikan Flutter SDK sudah terinstal di perangkat.
     2. Clone repository ini ke komputer 
     git clone https://github.com/khalila-lila/TodoKu.git 
